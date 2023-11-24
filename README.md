@@ -1,5 +1,5 @@
 ### Hi there 👋
-###- 🔭 I’m currently working on exploring GitHub.
+- 🔭 I’m currently working on exploring GitHub.
 - 🌱 I’m currently learning more about data curation and stewardship.
 - 💬 Ask me about my favorite children's book.
 - ⚡ Fun fact: I met my husband working as summer camp counselors.
